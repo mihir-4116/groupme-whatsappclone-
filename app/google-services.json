@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232060283682",
+    "project_id": "groupme-b9798",
+    "storage_bucket": "groupme-b9798.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232060283682:android:cc9ff5292b735f8441537b",
+        "android_client_info": {
+          "package_name": "com.spartans.groupme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232060283682-3apbd2rm5dfmf0cvl3khj00tgjibnsqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANjoibpr5evieGQCBxDM-2qbe0Rm8feN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232060283682-3apbd2rm5dfmf0cvl3khj00tgjibnsqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
