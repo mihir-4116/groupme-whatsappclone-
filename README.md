@@ -1,8 +1,14 @@
 <h1>Welcome to this project</h1>
 
-This project is a chatting app similar to whatsapp and it's supports authentication, one-to-one chat, group chat, update your profile.
-i use firebase for the authentication.
-Screenshots of this app
+<h2>Features of this app</h2>
+ =>one-to-one chat
+ =>Group-chat
+ =>authentication
+ =>update Profile image
+ =>update status
+ =>send and delete messages
+
+<h2>Screenshots of this app</h2>
 
 <table>
   <tr>
