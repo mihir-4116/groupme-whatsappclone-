@@ -1,7 +1,7 @@
 <h1>Welcome to this project</h1>
 
 <h2>Features of this app</h2>
- =>one-to-one chat
+ =>one-to-one chat<br>
  =>Group-chat
  =>authentication
  =>update Profile image
