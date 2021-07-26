@@ -1,4 +1,5 @@
 <h1>Welcome to this project</h1>
+This is an whatsapp clone buit in android studio using java and Firebase.
 
 <h2>Features of this app</h2>
  =>one-to-one chat<br>
@@ -24,4 +25,7 @@
      <td><img src="https://user-images.githubusercontent.com/77438541/126645522-e8fa0872-b94d-4f81-a3c4-f0b6bd4f2031.png" width=270 height=480></td>
   </tr>
  </table>
+ 
+ Refer this video for more understanding:
+ Link:https://youtu.be/d2_bcbUbCtc
 
