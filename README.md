@@ -1,3 +1,4 @@
+![Screenshot_1627301813](https://user-images.githubusercontent.com/77438541/126987278-8e6572a2-490e-4bab-b56a-da06b24406f2.png)
 <h1>Welcome to this project</h1>
 
 This project is a chatting app similar to whatsapp and it's supports authentication, one-to-one chat, group chat, update your profile.
