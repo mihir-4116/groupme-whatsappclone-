@@ -13,8 +13,8 @@ Screenshots of this app
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/77438541/126645356-397cfe88-4842-4f48-a081-a81ac525caa7.png" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/77438541/126987048-3fc3e02f-259b-41c7-81d1-01c89c6738e1.png" width=270 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/77438541/126986809-67253c9e-6d12-430d-83af-cd406b188802.png" width=270 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/77438541/126645522-e8fa0872-b94d-4f81-a3c4-f0b6bd4f2031.png" width=270 height=480></td>
      <td><img src="https://user-images.githubusercontent.com/77438541/126645522-e8fa0872-b94d-4f81-a3c4-f0b6bd4f2031.png" width=270 height=480></td>
   </tr>
  </table>
