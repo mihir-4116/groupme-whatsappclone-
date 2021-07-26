@@ -2,11 +2,11 @@
 
 <h2>Features of this app</h2>
  =>one-to-one chat<br>
- =>Group-chat
- =>authentication
- =>update Profile image
- =>update status
- =>send and delete messages
+ =>Group-chat<br>
+ =>authentication<br>
+ =>update Profile image<br>
+ =>update status<br>
+ =>send and delete messages<br>
 
 <h2>Screenshots of this app</h2>
 
