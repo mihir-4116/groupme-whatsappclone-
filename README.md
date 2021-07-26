@@ -27,5 +27,7 @@ This is an whatsapp clone buit in android studio using java and Firebase.
  </table>
  
  Refer this video for more understanding:
+ 
+ 
  Link:https://youtu.be/d2_bcbUbCtc
 
