@@ -2,12 +2,12 @@
 This is an whatsapp clone buit in android studio using java and Firebase.
 
 <h2>Features of this app</h2>
- =>one-to-one chat<br>
- =>Group-chat<br>
- =>authentication<br>
- =>update Profile image<br>
- =>update status<br>
- =>send and delete messages<br>
+ => one-to-one chat<br>
+ => Group-chat<br>
+ => authentication<br>
+ => update Profile image<br>
+ => update status<br>
+ => send and delete messages<br>
 
 <h2>Screenshots of this app</h2>
 
